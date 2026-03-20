@@ -17,7 +17,6 @@ Este é um projeto de aprendizado prático! Estou construindo este sistema enqua
 - ✅ Ver relatório completo com estatísticas
 - ✅ Definir metas para o próximo dia
 - ✅ Detectar automaticamente dias não registrados
-- ✅ Três tipos de status: Estudado, Não Estudado, Justificado
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -36,7 +35,7 @@ Este é um projeto de aprendizado prático! Estou construindo este sistema enqua
 - Condicionais (`if`, `elif`, `else`)
 - Tratamento de dados do usuário (`input`, validações)
 - Persistência de dados em arquivos
-- Controle de versão com Git
+- Minhas primeiras movimentações no GITHUB
 
 ## 💻 Como Usar
 
@@ -47,7 +46,7 @@ Este é um projeto de aprendizado prático! Estou construindo este sistema enqua
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/log-de-estudos.git
+git clone https://github.com/louishb7/log-de-estudos.git
 cd log-de-estudos
 ```
 
@@ -125,5 +124,3 @@ Este projeto está sob a licença MIT - sinta-se livre para usar e modificar.
 ---
 
 ⭐ Se este projeto te ajudou de alguma forma, considere dar uma estrela!
-
-**Feito com 💪 e muito ☕ durante minha jornada de aprendizado**
